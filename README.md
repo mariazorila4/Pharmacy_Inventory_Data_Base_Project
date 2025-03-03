@@ -22,7 +22,7 @@ The project was developed using SQL and includes tables, relationships, and cons
 
 ### Schema Diagram
 
-You can view the updated database schema diagram in the main folder of this repository: **Pharmacy_Inventory_ERD_diagram.png**
+You can view the updated database schema diagram in the main folder of this repository: **Pharmacy_Inventory_ERD_diagram.png** or **Pharmacy_Inventory_ERD_diagram.pdf**
 
 ## Technologies Used
 
