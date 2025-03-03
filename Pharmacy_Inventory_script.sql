@@ -103,6 +103,7 @@ CREATE TABLE prescriptions (
 CREATE TABLE prescription_medicines (
     prescription_id INTEGER,
     medicine_id INTEGER,
+    quantity_prescribed INTEGER,
     PRIMARY KEY (prescription_id, medicine_id),
     FOREIGN KEY (prescription_id) REFERENCES prescriptions(prescription_id),
     FOREIGN KEY (medicine_id) REFERENCES medicines(medicine_id)
