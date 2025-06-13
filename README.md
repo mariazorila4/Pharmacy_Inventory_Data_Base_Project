@@ -1,5 +1,16 @@
 # Pharmacy_Inventory_Data_Base_Project
 
+<p align="center">
+  <img src="RezzoAppLogo." alt="Logo" width="600">
+</p>
+<p align="center">
+  <em>Created using Canva AI tools. I do not claim ownership of the visual elements.<br>
+  If this image presents an issue, please feel free to contact me.</em>
+</p>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 ## Project Overview
 
 This project involves the development of a relational database designed for managing inventory and operations within a pharmacy. The database supports the pharmacy’s internal processes, including medicine stock management, supplier details, customer prescriptions, and order tracking.
