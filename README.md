@@ -1,15 +1,14 @@
 # Pharmacy_Inventory_Data_Base_Project
 
 <p align="center">
-  <img src="RezzoAppLogo." alt="Logo" width="600">
+  <img src="pharmacy inventory app logo.jpg" alt="Logo" width="600">
 </p>
 <p align="center">
   <em>Created using Canva AI tools. I do not claim ownership of the visual elements.<br>
   If this image presents an issue, please feel free to contact me.</em>
 </p>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ## Project Overview
 
